@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puzzleslide", "puzzleslide\puzzleslide.csproj", "{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D311B24A-3F71-4DBD-8306-66CF2D4DCC95}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
