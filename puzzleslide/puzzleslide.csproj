@@ -68,6 +68,18 @@
     </ItemGroup>
     <ItemGroup>
       <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
+      <PackageReference Include="Ooui">
+        <Version>0.11.303</Version>
+      </PackageReference>
+      <PackageReference Include="Ooui.Forms">
+        <Version>0.11.303</Version>
+      </PackageReference>
+      <PackageReference Include="Ooui.Wasm">
+        <Version>0.11.303</Version>
+      </PackageReference>
+      <PackageReference Include="Ooui.AspNetCore">
+        <Version>0.11.303</Version>
+      </PackageReference>
     </ItemGroup>
     <ItemGroup>
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
